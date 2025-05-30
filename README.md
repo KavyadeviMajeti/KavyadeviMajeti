@@ -1,6 +1,7 @@
 
-# 💫 Hi 👋, I'm Imran Alam
+# 💫 Hi 👋, I'm Kavya devi Majeti
 **🚀 A passionate Web Developer || Focused on Buliding Real World Projects || Enthusiastic in Problem-solving
+<br>
 Email Me 👉 ✉️ **kavyamajeti93@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
