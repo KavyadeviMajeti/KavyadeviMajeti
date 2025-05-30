@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/02ac148b-2047-492b-a0de-8cdad4dab42c)
 
 #  Hi 👋, I'm Kavya devi Majeti💫
 **🚀 A passionate Web Developer || Focused on Buliding Real World Projects || Enthusiastic in Problem-solving
