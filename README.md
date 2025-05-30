@@ -1,10 +1,10 @@
-<img src="https://github.com/user-attachments/assets/02ac148b-2047-492b-a0de-8cdad4dab42c" width="100%"  height="500"
+![Screenshot from 2025-05-30 23-02-10](https://github.com/user-attachments/assets/39341025-79ee-4b3d-ac5b-6327942598ca)
 
 #  Hi 👋, I'm Kavya devi Majeti💫
 **🚀 A passionate Web Developer || Focused on Buliding Real World Projects || Enthusiastic in Problem-solving
 <br>
 Email Me 👉 ✉️ **kavyamajeti93@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/vector-illustration-showing-female-software-engineer_1110958-62413.jpg">
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:**Web Developer
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
