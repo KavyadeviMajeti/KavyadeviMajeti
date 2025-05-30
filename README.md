@@ -47,5 +47,11 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KavyadeviMajeti&icon=0&color=0)](https://visitcount.itsvg.in)
-> Let’s connect, collaborate, or just geek out over some tech 💬
+<p>Let’s connect, collaborate, or just geek out over some tech 💬</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Let's Connect
+
+
+- 💼 [LinkedIn](https://linkedin.com/in/kavyadevi-majeti-webdeveloper)
+- 💌 Reach me: [your@email.com](mailto:kavyamajeti93@.com)
+
